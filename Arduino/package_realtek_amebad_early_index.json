@@ -49,7 +49,7 @@
           ]
         },
     {
-          "name": "My Realtek Ameba Boards (32-bits ARM Cortex-M33 @200MHz)",
+          "name": "Manda Realtek Ameba Boards (32-bits ARM Cortex-M33 @200MHz)",
           "architecture": "AmebaD",
           "version": "3.1.8-build20241128",
           "category": "Contributed",
